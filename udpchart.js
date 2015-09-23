@@ -5,12 +5,7 @@
 /**
  * 这个是实现nodejs udp聊天的例子
  * */
-
-
-
 var dgram = require("dgram");
-
-
 
 /*
  * 目标IP
